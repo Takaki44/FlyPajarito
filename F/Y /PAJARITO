@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Flying Bird</title>
+</head>
+<body>
+  <img src="bird.png" alt="Bird">
+  <p>This is a bird flying.</p>
+</body>
+</html>
